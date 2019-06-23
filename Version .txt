@@ -1,0 +1,21 @@
+#testworkflow
+##requirements
+
+software package:fiji(ImageJ)
+workflow languaje:Image macro
+
+#execution enviroment
+
+  java.version: 1.8.0_172
+  java.vendor: Oracle Corporation
+  os.name: Windows 10
+  os.version: 10.0
+  java.home: C:\Users\Andrea\DOWNLO~1\FIJI-W~1\Fiji.app\java\win64\jdk1.8.0_172\jre
+  java.class.path: C:\Users\Andrea\DOWNLO~1\FIJI-W~1\Fiji.app/jars/imagej-launcher-4.0.5.jar
+
+  IJ.getVersion: 2.0.0-rc-69/1.52n
+  IJ.getFullVersion: 1.52n99
+  IJ.javaVersion: 8
+
+
+
